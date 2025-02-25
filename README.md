@@ -38,11 +38,6 @@ interactive-boxes/
 3. **Color & Size Selection**: Options within the box allow users to choose different colors and sizes.
 4. **Dynamic Styling**: Selected options apply styles dynamically.
 
-## Future Improvements
-- Store selected options in local storage.
-- Add hover effects for a better UI.
-- Implement responsiveness for mobile devices.
 
-## License
-This project is licensed under the MIT License.
+
 
